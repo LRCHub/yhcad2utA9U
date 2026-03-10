@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "DISCO FLIGHT",
+  "base_artist": "凛として時雨",
+  "createdAt": "2026-03-10T06:52:24.279533Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DISCO FLIGHT (remastered at METROPOLIS)",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/01_DISCO_FLIGHT_(remastered_at_METROPOLIS)_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DISCO FLIGHT",
+      "artist": "凛として時雨",
+      "has_synced": true,
+      "path": "select/02_DISCO_FLIGHT_凛として時雨.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DISCO FLIGHT",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/03_DISCO_FLIGHT_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DISCO FLIGHT",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/04_DISCO_FLIGHT_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DISCO FLIGHT",
+      "artist": "凛として時雨 [Ling Tosite Sigure]",
+      "has_synced": true,
+      "path": "select/05_DISCO_FLIGHT_凛として時雨_[Ling_Tosite_Sigure].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DISCO FLIGHT",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_DISCO_FLIGHT_凛として時雨.txt"
+    }
+  ]
+}
